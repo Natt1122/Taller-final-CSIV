@@ -1,0 +1,22 @@
+C:\Users\natic\OneDrive\Escritorio\Final\Final\bin\Debug\Final.exe.config
+C:\Users\natic\OneDrive\Escritorio\Final\Final\bin\Debug\Final.exe
+C:\Users\natic\OneDrive\Escritorio\Final\Final\bin\Debug\Final.pdb
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.exe
+C:\Users\natic\OneDrive\Escritorio\Final\Final\obj\Debug\Final.pdb
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\bin\Debug\Final.exe.config
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\bin\Debug\Final.exe
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\bin\Debug\Final.pdb
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.exe
+C:\Users\natic\OneDrive\Escritorio\Final CSIV\Final\Final\obj\Debug\Final.pdb
